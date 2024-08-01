@@ -1,2 +1,2 @@
 # Coffee-Shop-Website
-Responsive coffee shop website
+Responsive coffee shop website inspired by Mr. Web designer
